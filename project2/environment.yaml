@@ -1,0 +1,6 @@
+name: dmu_project2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=1.24.0
